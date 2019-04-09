@@ -1,0 +1,140 @@
+{
+    "details": {
+        "title": "all my project details"
+    },
+    "project":[
+        {
+            "id": 1,
+            "name": "GINNY BRADLEY CMS",
+            "technologies": [
+                "javascript",
+                "node",
+                "html",
+                "css",
+                "express",
+                "postgresql"
+            ],
+            "description": "A CMS Project For a London Institute",
+            "role": "backend",
+            "externallink": "https://ginnybradley.co.uk/",
+            "github": "https://github.com/coderlist/coderlistgp1",
+            "preview": "",
+            "imagelink": "ginny"
+        },
+        {
+            "id": 2,
+            "name": "EXPENSE TRACKER",
+            "technologies": [
+                "javascript",
+                "node",
+                "react",
+                "redux",
+                "css",
+                "mongodb"
+            ],
+            "description": "GINNY BRADLEY CMS",
+            "role": "backend",
+            "externallink": "https://ginnybradley.co.uk/",
+            "github": "https://github.com/coderlist/coderlistgp1",
+            "preview": "",
+            "imagelink": "tracker"
+        },
+        {
+            "id": 3,
+            "name": "REACT CALENDER",
+            "technologies": [
+                "javascript",
+                "react",
+                "redux",
+                "css"
+            ],
+            "description": "A CMS Project For a London Institute",
+            "role": "frontend",
+            "externallink": "",
+            "github": "https://github.com/jidemobell/React-Calendar",
+            "preview": "",
+            "imagelink": "calender"
+        },
+        {
+            "id": 4,
+            "name": "BOOKFINDER",
+            "technologies": [
+                "javascript",
+                "react",
+                "redux",
+                "sass"
+            ],
+            "description": "a simple google api bookfinder",
+            "role": "frontend",
+            "externallink": "https://jidemobell.github.io/bookfinder/",
+            "github": "https://github.com/jidemobell/bookfinder",
+            "preview": "",
+            "imagelink": "bookfinder"
+        },
+        
+        {
+            "id": 5,
+            "name": "Twitch-TV-App",
+            "technologies": [
+                "html",
+                "css",
+                "jquery",
+                "javascript"
+            ],
+            "description": "a twitch tv API straem finder for freecodecamp",
+            "role": "frontend",
+            "externallink": "https://jidemobell.github.io/twitchtvApp/",
+            "github": "https://github.com/jidemobell/twitchtvApp",
+            "preview": "",
+            "imagelink": "twitch"
+        },
+        {
+            "id": 6,
+            "name": "pomodoro",
+            "technologies": [
+                "html",
+                "css",
+                "jquery",
+                "javascript"
+            ],
+            "description": "a simple pomodoro app for freecodecamp",
+            "role": "frontend",
+            "externallink": "https://jidemobell.github.io/pomodoroApp/",
+            "github": "https://github.com/jidemobell/pomodoroApp",
+            "preview": "",
+            "imagelink": "pomodoro"
+        },
+        {
+            "id": 7,
+            "name": "simon-app",
+            "technologies": [
+                "html",
+                "css",
+                "jquery",
+                "javascript"
+            ],
+            "description": "a simple simon app for freecodecamp",
+            "role": "frontend",
+            "externallink": "https://jidemobell.github.io/simonApp/",
+            "github": "https://github.com/jidemobell/simonApp",
+            "preview": "",
+            "imagelink": "simon"
+        },
+        {
+            "id": 8,
+            "name": "tictactoe",
+            "technologies": [
+                "html",
+                "css",
+                "jquery",
+                "javascript"
+            ],
+            "description": "a simple tictactoe app for freecodecamp",
+            "role": "frontend",
+            "externallink": "https://jidemobell.github.io/tictactoe/",
+            "github": "https://github.com/jidemobell/tictactoe",
+            "preview": "",
+            "imagelink": "tictactoe"
+        }
+    ]
+}
