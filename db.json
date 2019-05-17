@@ -5,6 +5,26 @@
     "project":[
         {
             "id": 1,
+            "name": "JOBBATICAL CLONE",
+            "technologies": [
+                "javascript",
+                "react",
+                "redux",
+                "node",
+                "html",
+                "css",
+                "express",
+                "mongodb"
+            ],
+            "description": "A Jobbatical app clone",
+            "role": "fullstack",
+            "externallink": "https://morning-anchorage-93717.herokuapp.com/login",
+            "github": "https://github.com/chingu-voyages/v8-bears-team-15",
+            "preview": "",
+            "imagelink": "jobbatical"
+        },
+        {
+            "id": 2,
             "name": "GINNY BRADLEY CMS",
             "technologies": [
                 "javascript",
@@ -22,7 +42,7 @@
             "imagelink": "ginny"
         },
         {
-            "id": 2,
+            "id": 3,
             "name": "EXPENSE TRACKER",
             "technologies": [
                 "javascript",
@@ -40,7 +60,7 @@
             "imagelink": "tracker"
         },
         {
-            "id": 3,
+            "id": 4,
             "name": "REACT CALENDER",
             "technologies": [
                 "javascript",
@@ -56,7 +76,7 @@
             "imagelink": "calender"
         },
         {
-            "id": 4,
+            "id": 5,
             "name": "BOOKFINDER",
             "technologies": [
                 "javascript",
@@ -73,7 +93,7 @@
         },
         
         {
-            "id": 5,
+            "id": 6,
             "name": "Twitch-TV-App",
             "technologies": [
                 "html",
@@ -89,7 +109,7 @@
             "imagelink": "twitch"
         },
         {
-            "id": 6,
+            "id": 7,
             "name": "pomodoro",
             "technologies": [
                 "html",
@@ -105,7 +125,7 @@
             "imagelink": "pomodoro"
         },
         {
-            "id": 7,
+            "id": 8,
             "name": "simon-app",
             "technologies": [
                 "html",
@@ -121,7 +141,7 @@
             "imagelink": "simon"
         },
         {
-            "id": 8,
+            "id": 9,
             "name": "tictactoe",
             "technologies": [
                 "html",
@@ -137,4 +157,3 @@
             "imagelink": "tictactoe"
         }
     ]
-}
