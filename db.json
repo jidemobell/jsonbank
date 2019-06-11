@@ -62,7 +62,7 @@
             "github": "https://github.com/coderlist/coderlistgp1",
             "preview": "",
             "imagelink": "tracker",
-            "position":"full stack",
+            "position": "full stack",
             "mode": "team"
         },
         {
@@ -80,7 +80,7 @@
             "github": "https://github.com/jidemobell/React-Calendar",
             "preview": "",
             "imagelink": "calender",
-            "position":"from end",
+            "position": "from end",
             "mode": "solo"
         },
         {
@@ -98,7 +98,7 @@
             "github": "https://github.com/jidemobell/bookfinder",
             "preview": "",
             "imagelink": "bookfinder"
-            "position":"front end",
+            "position": "front end",
             "mode": "solo"
         }
     ]
