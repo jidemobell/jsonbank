@@ -120,6 +120,26 @@
             "imagelink": "https://res.cloudinary.com/jidemobell/image/upload/v1567619369/journal_ju4acc.png",
             "position": "full stack",
             "mode": "solo"
-        }
+        },
+        {
+            "id": 7,
+            "name": "PROJECT MANAGER",
+            "technologies": [
+                "javascript",
+                "node",
+                "react",
+                "mongo",
+                "css",
+                "express"
+            ],
+            "description": "A PROJECT MANAGEMENT APPLICATION",
+            "role": "fullstack",
+            "externallink": "https://chingu-voyages.github.io/v11-bears-team-10/",
+            "github": "https://github.com/chingu-voyages/v11-bears-team-10",
+            "preview": "",
+            "imagelink": "https://res.cloudinary.com/jidemobell/image/upload/v1574704576/kushboard_fxlor4.png",
+            "position": "full stack",
+            "mode": "team"
+        }      
     ]
 }
