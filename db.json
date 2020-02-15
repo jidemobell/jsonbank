@@ -84,9 +84,30 @@
       "imagelink": "https://res.cloudinary.com/jidemobell/image/upload/v1574704576/kushboard_fxlor4.png",
       "position": "full stack",
       "mode": "team"
-    },
+		},
+		{
+			"id": 5,
+			"name": "BRIDAL SITE CMS",
+			"technologies": [
+					"javascript",
+					"node",
+					"react",
+					"postgresql",
+					"express",
+					"ckeditor",
+					"css"
+			],
+			"description": "A cms manager for a bridal site",
+			"role": "fullstack",
+			"externallink": "https://5e47d2f646b3928f214eefa8--pedantic-feynman-a62762.netlify.com/",
+			"github": "https://github.com/jidemobell/newbride",
+			"preview": "",
+			"imagelink": "https://res.cloudinary.com/jidemobell/image/upload/v1581771563/newbride_uzfqgs.png",
+			"position": "full stack",
+			"mode": "solo"
+	},
     {
-      "id": 5,
+      "id": 6,
       "name": "REACT CALENDER",
       "technologies": ["javascript", "react", "redux", "css"],
       "description": "A CMS Project For a London Institute",
@@ -99,7 +120,7 @@
       "mode": "solo"
     },
     {
-      "id": 6,
+      "id": 7,
       "name": "JOURNAL APP",
       "technologies": [
         "javascript",
@@ -119,7 +140,7 @@
       "mode": "solo"
     },
     {
-      "id": 7,
+      "id": 8,
       "name": "BOOKFINDER",
       "technologies": ["javascript", "react", "redux", "sass"],
       "description": "a simple google api bookfinder",
@@ -130,27 +151,6 @@
       "imagelink": "https://res.cloudinary.com/jidemobell/image/upload/v1560283659/BookFinder_fc8vzk.png",
       "position": "front end",
       "mode": "solo"
-		},
-		{
-			"id": 8,
-			"name": "BRIDAL SITE CMS",
-			"technologies": [
-					"javascript",
-					"node",
-					"react",
-					"postgresql",
-					"express",
-					"ckeditor",
-					"css"
-			],
-			"description": "A cms manager for a bridal site",
-			"role": "fullstack",
-			"externallink": "https://5e47d2f646b3928f214eefa8--pedantic-feynman-a62762.netlify.com/",
-			"github": "https://github.com/jidemobell/newbride",
-			"preview": "",
-			"imagelink": "https://res.cloudinary.com/jidemobell/image/upload/v1581771563/newbride_uzfqgs.png",
-			"position": "full stack",
-			"mode": "solo"
-	}
+		}
   ]
 }
