@@ -1,145 +1,156 @@
 {
-    "details": {
-        "title": "all my project details"
+  "details": {
+    "title": "all my project details"
+  },
+  "project": [
+    {
+      "id": 1,
+      "name": "JOBBATICAL CLONE",
+      "technologies": [
+        "javascript",
+        "react",
+        "redux",
+        "node",
+        "html",
+        "css",
+        "express",
+        "mongodb"
+      ],
+      "description": "A Jobbatical app clone",
+      "role": "fullstack",
+      "externallink": "https://voyage8-jobbatical-clone.herokuapp.com",
+      "github": "https://github.com/chingu-voyages/v8-bears-team-15",
+      "preview": "",
+      "imagelink": "https://res.cloudinary.com/jidemobell/image/upload/v1560283705/jobbatical_zekijz.png",
+      "position": "full stack",
+      "mode": "team"
     },
-    "project":[
-        {
-            "id": 1,
-            "name": "JOBBATICAL CLONE",
-            "technologies": [
-                "javascript",
-                "react",
-                "redux",
-                "node",
-                "html",
-                "css",
-                "express",
-                "mongodb"
-            ],
-            "description": "A Jobbatical app clone",
-            "role": "fullstack",
-            "externallink": "https://voyage8-jobbatical-clone.herokuapp.com",
-            "github": "https://github.com/chingu-voyages/v8-bears-team-15",
-            "preview": "",
-            "imagelink": "https://res.cloudinary.com/jidemobell/image/upload/v1560283705/jobbatical_zekijz.png",
-            "position": "full stack",
-            "mode": "team"
-        },
-        {
-            "id": 2,
-            "name": "GINNY BRADLEY CMS",
-            "technologies": [
-                "javascript",
-                "node",
-                "html",
-                "css",
-                "express",
-                "postgresql"
-            ],
-            "description": "A CMS Project For a London Institute",
-            "role": "backend",
-            "externallink": "https://ginnybradley.co.uk/",
-            "github": "https://github.com/coderlist/coderlistgp1",
-            "preview": "",
-            "imagelink": "https://res.cloudinary.com/jidemobell/image/upload/v1560283677/ginnyBradley_xftiku.png",
-            "position": "back end",
-            "mode": "team"
-        },
-        {
-            "id": 3,
-            "name": "EXPENSE TRACKER",
-            "technologies": [
-                "javascript",
-                "node",
-                "react",
-                "redux",
-                "css",
-                "mongodb"
-            ],
-            "description": "GINNY BRADLEY CMS",
-            "role": "backend",
-            "externallink": "https://ginnybradley.co.uk/",
-            "github": "https://github.com/coderlist/coderlistgp1",
-            "preview": "",
-            "imagelink": "https://res.cloudinary.com/jidemobell/image/upload/v1560283672/expenseTracker_eqtini.png",
-            "position": "full stack",
-            "mode": "team"
-        },
-        {
-            "id": 4,
-            "name": "REACT CALENDER",
-            "technologies": [
-                "javascript",
-                "react",
-                "redux",
-                "css"
-            ],
-            "description": "A CMS Project For a London Institute",
-            "role": "frontend",
-            "externallink": "",
-            "github": "https://github.com/jidemobell/React-Calendar",
-            "preview": "",
-            "imagelink": "https://res.cloudinary.com/jidemobell/image/upload/v1567674864/react-calendar_bigih9.png",
-            "position": "from end",
-            "mode": "solo"
-        },
-        {
-            "id": 5,
-            "name": "BOOKFINDER",
-            "technologies": [
-                "javascript",
-                "react",
-                "redux",
-                "sass"
-            ],
-            "description": "a simple google api bookfinder",
-            "role": "frontend",
-            "externallink": "https://jidemobell.github.io/bookfinder/",
-            "github": "https://github.com/jidemobell/bookfinder",
-            "preview": "",
-            "imagelink": "https://res.cloudinary.com/jidemobell/image/upload/v1560283659/BookFinder_fc8vzk.png",
-            "position": "front end",
-            "mode": "solo"
-        },
-        {
-            "id": 6,
-            "name": "JOURNAL APP",
-            "technologies": [
-                "javascript",
-                "node",
-                "react",
-                "firbase",
-                "css",
-                "mfirestore"
-            ],
-            "description": "A JOURNAL APPLICATION",
-            "role": "fullstack",
-            "externallink": "https://digital-journal-chingu.firebaseapp.com",
-            "github": "https://github.com/jidemobell/journal",
-            "preview": "",
-            "imagelink": "https://res.cloudinary.com/jidemobell/image/upload/v1567619369/journal_ju4acc.png",
-            "position": "full stack",
-            "mode": "solo"
-        },
-        {
-            "id": 7,
-            "name": "PROJECT MANAGER",
-            "technologies": [
-                "javascript",
-                "node",
-                "react",
-                "mongo",
-                "css",
-                "express"
-            ],
-            "description": "A PROJECT MANAGEMENT APPLICATION",
-            "role": "fullstack",
-            "externallink": "https://chingu-voyages.github.io/v11-bears-team-10/",
-            "github": "https://github.com/chingu-voyages/v11-bears-team-10",
-            "preview": "",
-            "imagelink": "https://res.cloudinary.com/jidemobell/image/upload/v1574704576/kushboard_fxlor4.png",
-            "position": "full stack",
-            "mode": "team"
-        }      
-    ]
+    {
+      "id": 2,
+      "name": "GINNY BRADLEY CMS",
+      "technologies": [
+        "javascript",
+        "node",
+        "html",
+        "css",
+        "express",
+        "postgresql"
+      ],
+      "description": "A CMS Project For a London Institute",
+      "role": "backend",
+      "externallink": "https://ginnybradley.co.uk/",
+      "github": "https://github.com/coderlist/coderlistgp1",
+      "preview": "",
+      "imagelink": "https://res.cloudinary.com/jidemobell/image/upload/v1560283677/ginnyBradley_xftiku.png",
+      "position": "back end",
+      "mode": "team"
+    },
+    {
+      "id": 3,
+      "name": "EXPENSE TRACKER",
+      "technologies": [
+        "javascript",
+        "node",
+        "react",
+        "redux",
+        "css",
+        "mongodb"
+      ],
+      "description": "expense tracking application",
+      "role": "backend",
+      "externallink": "https://ginnybradley.co.uk/",
+      "github": "https://github.com/coderlist/coderlistgp1",
+      "preview": "",
+      "imagelink": "https://res.cloudinary.com/jidemobell/image/upload/v1560283672/expenseTracker_eqtini.png",
+      "position": "full stack",
+      "mode": "team"
+    },
+    {
+      "id": 4,
+      "name": "PROJECT MANAGER",
+      "technologies": [
+        "javascript",
+        "node",
+        "react",
+        "mongo",
+        "css",
+        "express"
+      ],
+      "description": "A PROJECT MANAGEMENT APPLICATION",
+      "role": "fullstack",
+      "externallink": "https://chingu-voyages.github.io/v11-bears-team-10/",
+      "github": "https://github.com/chingu-voyages/v11-bears-team-10",
+      "preview": "",
+      "imagelink": "https://res.cloudinary.com/jidemobell/image/upload/v1574704576/kushboard_fxlor4.png",
+      "position": "full stack",
+      "mode": "team"
+    },
+    {
+      "id": 5,
+      "name": "REACT CALENDER",
+      "technologies": ["javascript", "react", "redux", "css"],
+      "description": "A CMS Project For a London Institute",
+      "role": "frontend",
+      "externallink": "",
+      "github": "https://github.com/jidemobell/React-Calendar",
+      "preview": "",
+      "imagelink": "https://res.cloudinary.com/jidemobell/image/upload/v1567674864/react-calendar_bigih9.png",
+      "position": "from end",
+      "mode": "solo"
+    },
+    {
+      "id": 6,
+      "name": "JOURNAL APP",
+      "technologies": [
+        "javascript",
+        "node",
+        "react",
+        "firbase",
+        "css",
+        "mfirestore"
+      ],
+      "description": "A JOURNAL APPLICATION",
+      "role": "fullstack",
+      "externallink": "https://digital-journal-chingu.firebaseapp.com",
+      "github": "https://github.com/jidemobell/journal",
+      "preview": "",
+      "imagelink": "https://res.cloudinary.com/jidemobell/image/upload/v1567619369/journal_ju4acc.png",
+      "position": "full stack",
+      "mode": "solo"
+    },
+    {
+      "id": 7,
+      "name": "BOOKFINDER",
+      "technologies": ["javascript", "react", "redux", "sass"],
+      "description": "a simple google api bookfinder",
+      "role": "frontend",
+      "externallink": "https://jidemobell.github.io/bookfinder/",
+      "github": "https://github.com/jidemobell/bookfinder",
+      "preview": "",
+      "imagelink": "https://res.cloudinary.com/jidemobell/image/upload/v1560283659/BookFinder_fc8vzk.png",
+      "position": "front end",
+      "mode": "solo"
+		},
+		{
+			"id": 8,
+			"name": "BRIDAL SITE CMS",
+			"technologies": [
+					"javascript",
+					"node",
+					"react",
+					"postgresql",
+					"express",
+					"ckeditor",
+					"css"
+			],
+			"description": "A cms manager for a bridal site",
+			"role": "fullstack",
+			"externallink": "https://5e47d2f646b3928f214eefa8--pedantic-feynman-a62762.netlify.com/",
+			"github": "https://github.com/jidemobell/newbride",
+			"preview": "",
+			"imagelink": "https://res.cloudinary.com/jidemobell/image/upload/v1581771563/newbride_uzfqgs.png",
+			"position": "full stack",
+			"mode": "solo"
+	}
+  ]
 }
