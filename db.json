@@ -4,153 +4,206 @@
   },
   "project": [
     {
-      "id": 1,
-      "name": "JOBBATICAL CLONE",
-      "technologies": [
-        "javascript",
-        "react",
-        "redux",
-        "node",
-        "html",
-        "css",
-        "express",
-        "mongodb"
-      ],
-      "description": "A Jobbatical app clone",
-      "role": "fullstack",
-      "externallink": "https://voyage8-jobbatical-clone.herokuapp.com",
-      "github": "https://github.com/chingu-voyages/v8-bears-team-15",
-      "preview": "",
-      "imagelink": "https://res.cloudinary.com/jidemobell/image/upload/v1560283705/jobbatical_zekijz.png",
-      "position": "full stack",
-      "mode": "team"
-    },
-    {
-      "id": 2,
-      "name": "GINNY BRADLEY CMS",
-      "technologies": [
-        "javascript",
-        "node",
-        "html",
-        "css",
-        "express",
-        "postgresql"
-      ],
-      "description": "A CMS Project For a London Institute",
-      "role": "backend",
-      "externallink": "https://ginnybradley.co.uk/",
-      "github": "https://github.com/coderlist/coderlistgp1",
-      "preview": "",
-      "imagelink": "https://res.cloudinary.com/jidemobell/image/upload/v1560283677/ginnyBradley_xftiku.png",
-      "position": "back end",
-      "mode": "team"
-    },
-    {
-      "id": 3,
-      "name": "EXPENSE TRACKER",
-      "technologies": [
-        "javascript",
-        "node",
-        "react",
-        "redux",
-        "css",
-        "mongodb"
-      ],
-      "description": "expense tracking application",
-      "role": "backend",
-      "externallink": "https://ginnybradley.co.uk/",
-      "github": "https://github.com/coderlist/coderlistgp1",
-      "preview": "",
-      "imagelink": "https://res.cloudinary.com/jidemobell/image/upload/v1560283672/expenseTracker_eqtini.png",
-      "position": "full stack",
-      "mode": "team"
-    },
-    {
-      "id": 4,
-      "name": "PROJECT MANAGER",
-      "technologies": [
-        "javascript",
-        "node",
-        "react",
-        "mongo",
-        "css",
-        "express"
-      ],
-      "description": "A PROJECT MANAGEMENT APPLICATION",
-      "role": "fullstack",
-      "externallink": "https://chingu-voyages.github.io/v11-bears-team-10/",
-      "github": "https://github.com/chingu-voyages/v11-bears-team-10",
-      "preview": "",
-      "imagelink": "https://res.cloudinary.com/jidemobell/image/upload/v1574704576/kushboard_fxlor4.png",
-      "position": "full stack",
-      "mode": "team"
-		},
-		{
-			"id": 5,
-			"name": "BRIDAL SITE CMS",
-			"technologies": [
-					"javascript",
-					"node",
-					"react",
-					"postgresql",
-					"express",
-					"ckeditor",
-					"css"
-			],
-			"description": "A cms manager for a bridal site",
-			"role": "fullstack",
-			"externallink": "https://5e47d2f646b3928f214eefa8--pedantic-feynman-a62762.netlify.com/",
-			"github": "https://github.com/jidemobell/newbride",
-			"preview": "",
-			"imagelink": "https://res.cloudinary.com/jidemobell/image/upload/v1581771563/newbride_uzfqgs.png",
-			"position": "full stack",
-			"mode": "solo"
-	},
-    {
-      "id": 6,
-      "name": "REACT CALENDER",
-      "technologies": ["javascript", "react", "redux", "css"],
-      "description": "A CMS Project For a London Institute",
-      "role": "frontend",
-      "externallink": "",
-      "github": "https://github.com/jidemobell/React-Calendar",
-      "preview": "",
-      "imagelink": "https://res.cloudinary.com/jidemobell/image/upload/v1567674864/react-calendar_bigih9.png",
-      "position": "from end",
-      "mode": "solo"
-    },
-    {
-      "id": 7,
-      "name": "JOURNAL APP",
-      "technologies": [
-        "javascript",
-        "node",
-        "react",
-        "firbase",
-        "css",
-        "mfirestore"
-      ],
-      "description": "A JOURNAL APPLICATION",
-      "role": "fullstack",
-      "externallink": "https://digital-journal-chingu.firebaseapp.com",
-      "github": "https://github.com/jidemobell/journal",
-      "preview": "",
-      "imagelink": "https://res.cloudinary.com/jidemobell/image/upload/v1567619369/journal_ju4acc.png",
-      "position": "full stack",
-      "mode": "solo"
-    },
-    {
-      "id": 8,
-      "name": "BOOKFINDER",
-      "technologies": ["javascript", "react", "redux", "sass"],
-      "description": "a simple google api bookfinder",
-      "role": "frontend",
-      "externallink": "https://jidemobell.github.io/bookfinder/",
-      "github": "https://github.com/jidemobell/bookfinder",
-      "preview": "",
-      "imagelink": "https://res.cloudinary.com/jidemobell/image/upload/v1560283659/BookFinder_fc8vzk.png",
-      "position": "front end",
-      "mode": "solo"
-		}
+    "id": 1,
+    "name": "GINNY BRADLEY CMS",
+    "technologies": [
+      "node",
+      "html",
+      "css",
+      "postgres"
+    ],
+    "description": "A CMS Project For a London Institute",
+    "role": "backend",
+    "externallink": "https://ginnybradley.co.uk/",
+    "github": "https://github.com/coderlist/coderlistgp1",
+    "preview": "https://nqm4qeuzlyd4lb.data.mediastore.us-west-2.amazonaws.com/ginny.webm",
+    "imagelink": "https://wheaddle.sirv.com/portfolio/ginnyBradley.png",
+    "position": "back end",
+    "mode": "team"
+  },
+  {
+    "id": 2,
+    "name": "DSHIFT",
+    "technologies": [
+      "svelte",
+      "css",
+      "fauna",
+      "graphql",
+      "netlify"
+    ],
+    "description": "A Shift Planner App",
+    "role": "backend",
+    "externallink": "https://dshift.netlify.app/",
+    "github": "https://github.com/chingu-voyages/v28-svelte-team-09.git",
+    "preview": "",
+    "imagelink": "https://wheaddle.sirv.com/portfolio/planner.png",
+    "position": "full stack",
+    "mode": "team"
+  },
+  {
+    "id": 3,
+    "name": "BEARS CLASS - GOOGLE CLASS CLONE ",
+    "technologies": [
+      "svelte",
+      "css",
+      "fauna",
+      "graphql",
+      "netlify"
+    ],
+    "description": "A Google Classroom clone",
+    "role": "backend",
+    "externallink": "https://bearclass.netlify.app/",
+    "github": "https://github.com/chingu-voyages/v26-bears-team-07",
+    "preview": "https://nqm4qeuzlyd4lb.data.mediastore.us-west-2.amazonaws.com/bearclass.webm",
+    "imagelink": "https://wheaddle.sirv.com/portfolio/bearsclass.png",
+    "position": "full stack",
+    "mode": "team"
+  },
+  {
+    "id": 3,
+    "name": "JOBBATICAL CLONE",
+    "technologies": [
+      "react",
+      "redux",
+      "node",
+      "html",
+      "css",
+      "mongo"
+    ],
+    "description": "A Jobbatical app clone",
+    "role": "fullstack",
+    "externallink": "https://voyage8-jobbatical-clone.herokuapp.com",
+    "github": "https://github.com/chingu-voyages/v8-bears-team-15",
+    "preview": "https://nqm4qeuzlyd4lb.data.mediastore.us-west-2.amazonaws.com/jobattical.webm",
+    "imagelink": "https://wheaddle.sirv.com/portfolio/jobbatical.png",
+    "position": "full stack",
+    "mode": "team"
+  },
+  {
+    "id": 4,
+    "name": "SVELTE DASHBOARD",
+    "technologies": [
+      "node",
+      "mongo",
+      "svelte",
+      "css",
+      "d3"
+    ],
+    "description": "A svelte dashboard",
+    "role": "fullstack",
+    "externallink": "https://ped-front.pages.dev/",
+    "github": "https://github.com/panocean/ped-front.git",
+    "preview": "https://nqm4qeuzlyd4lb.data.mediastore.us-west-2.amazonaws.com/ped.webm",
+    "imagelink": "https://wheaddle.sirv.com/portfolio/ped.png",
+    "position": "full stack",
+    "mode": "solo"
+  },
+  {
+    "id": 5,
+    "name": "PROJECT MANAGER",
+    "technologies": [
+      "node",
+      "react",
+      "mongo",
+      "css"
+    ],
+    "description": "A PROJECT MANAGEMENT APPLICATION",
+    "role": "fullstack",
+    "externallink": "https://chingu-voyages.github.io/v11-bears-team-10/",
+    "github": "https://github.com/chingu-voyages/v11-bears-team-10",
+    "preview": "https://nqm4qeuzlyd4lb.data.mediastore.us-west-2.amazonaws.com/projects.webm",
+    "imagelink": "https://wheaddle.sirv.com/portfolio/kushboard.png",
+    "position": "full stack",
+    "mode": "team"
+  },
+  {
+    "id": 6,
+    "name": "BRIDAL SITE CMS",
+    "technologies": [
+      "node",
+      "react",
+      "postgres",
+      "css"
+    ],
+    "description": "A cms manager for a bridal site",
+    "role": "fullstack",
+    "externallink": "https://5e47d2f646b3928f214eefa8--pedantic-feynman-a62762.netlify.com/",
+    "github": "https://github.com/jidemobell/newbride",
+    "preview": "https://nqm4qeuzlyd4lb.data.mediastore.us-west-2.amazonaws.com/prinmia.webm",
+    "imagelink": "https://wheaddle.sirv.com/portfolio/newbride.png",
+    "position": "full stack",
+    "mode": "solo"
+  },
+  {
+    "id": 7,
+    "name": "BOOKFINDER",
+    "technologies": [
+      "react",
+      "redux",
+      "sass"
+    ],
+    "description": "a simple google api bookfinder",
+    "role": "frontend",
+    "externallink": "https://jidemobell.github.io/bookfinder/",
+    "github": "https://github.com/jidemobell/bookfinder",
+    "preview": "https://nqm4qeuzlyd4lb.data.mediastore.us-west-2.amazonaws.com/bookfinder.webm",
+    "imagelink": "https://wheaddle.sirv.com/portfolio/BookFinder.png",
+    "position": "front end",
+    "mode": "solo"
+  },
+  {
+    "id": 8,
+    "name": "EXPENSE TRACKER",
+    "technologies": [
+      "node",
+      "react",
+      "redux",
+      "css",
+      "mongo"
+    ],
+    "description": "expense tracking application",
+    "role": "backend",
+    "externallink": "https://ginnybradley.co.uk/",
+    "github": "https://github.com/coderlist/coderlistgp1",
+    "preview": "",
+    "imagelink": "https://wheaddle.sirv.com/portfolio/expenseTracker.png",
+    "position": "full stack",
+    "mode": "team"
+  },
+  {
+    "id": 9,
+    "name": "JOURNAL APP",
+    "technologies": [
+      "node",
+      "react",
+      "firebase",
+      "css"
+    ],
+    "description": "A JOURNAL APPLICATION",
+    "role": "fullstack",
+    "externallink": "https://digital-journal-chingu.firebaseapp.com",
+    "github": "https://github.com/jidemobell/journal",
+    "preview": "https://nqm4qeuzlyd4lb.data.mediastore.us-west-2.amazonaws.com/journal.webm",
+    "imagelink": "https://wheaddle.sirv.com/portfolio/journal.png",
+    "position": "full stack",
+    "mode": "solo"
+  },
+  {
+    "id": 10,
+    "name": "REACT CALENDER",
+    "technologies": [
+      "react",
+      "redux",
+      "css"
+    ],
+    "description": "A CMS Project For a London Institute",
+    "role": "frontend",
+    "externallink": "",
+    "github": "https://github.com/jidemobell/React-Calendar",
+    "preview": "",
+    "imagelink": "https://wheaddle.sirv.com/portfolio/react-calendar.png",
+    "position": "from end",
+    "mode": "solo"
+  }
   ]
 }
